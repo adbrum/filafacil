@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'filafacil.core',
+    # 'filafacil.accesspoint',
+    'filafacil.screening',
 ]
 
 MIDDLEWARE_CLASSES = [
